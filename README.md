@@ -1,5 +1,7 @@
-# Multi-Verb-Labels
-Repo containing the multiple verb, verb-only labels from the paper Learning Visual Actions Using Multiple Verb-Only Labels, [Michael Wray](http://mwray.github.io)(1) and Dima Damen(1), BMVC 2019.
+# Multi-Verb Verb-Only Labels
+Repo containing the multiple verb, verb-only labels from the paper:
+
+Learning Visual Actions Using Multiple Verb-Only Labels, [Michael Wray](http://mwray.github.io)(1) and Dima Damen(1), BMVC 2019.
 
 (1) University of Bristol
 
