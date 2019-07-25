@@ -24,7 +24,7 @@ This repo provides multi-verb, verb-only annotations for three datasets: BEOID [
 
 ## Important Files/Folders
 * `README.md (this file)`
-* [`LICENSE.txt`](LICENSE.TXT)([info](#license))
+* [`LICENSE.txt`](LICENSE.txt)([info](#license))
 * [`BEOID.pkl`](BEOID.pkl) ([info](#beoidpkl))
 * [`CMU.pkl`](CMU.pkl) ([info](#cmupkl))
 * [`GTEA.pkl`](GTEA.pkl) ([info](#gteapkl))
